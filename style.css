@@ -8,12 +8,13 @@ body{
 h1 {
 	font-family: Garamond;
 	font-size: 5.0em;
+	margin: 20px 50px;
 }
 
 p{
 	font-family: Garamond;
 	font-size: 2.0em;
-
+	margin: 20px 50px;
 	}
 
 
